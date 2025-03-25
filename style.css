@@ -421,6 +421,7 @@ header input {
 
   .banner .avatar {
     margin: 10%;
+    display: none;
   }
   .listSkill {
     grid-template-columns: 1fr;
